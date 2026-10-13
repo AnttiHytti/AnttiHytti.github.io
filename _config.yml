@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
-title: Antti's homepage
-description: Testaillaan GitHubia!
+title: Kotisivu
+description: Sivulla harjoitellaan Markdownin käyttöä
 header_pages:
-  - index.md
   - contactinfo.md
 

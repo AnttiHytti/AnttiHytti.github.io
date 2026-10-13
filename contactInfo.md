@@ -1,2 +1,5 @@
---- title: Yhteystiedot ---
+---
+theme: jekyll-theme-minimal
+title: Yhteystiedot
+---
 ##Testi

@@ -1,8 +1,6 @@
 ---
 theme: jekyll-theme-minimal
-title: Yhteystiedot
-description: Toisen sivun testailua
 ---
-##Testi
+Antti.Hytti@centria.fi
 
 [takaisin](./)

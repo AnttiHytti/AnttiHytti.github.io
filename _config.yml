@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Kotisivu
 description: Sivulla harjoitellaan Markdownin käyttöä
 header_pages:
-  - contactinfo.md
+  contactinfo.md
 
 [takaisin](./contactinfo)
 
